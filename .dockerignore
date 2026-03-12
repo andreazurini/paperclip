@@ -8,3 +8,5 @@ coverage
 data
 tmp
 *.log
+docker-compose.yml 
+docker-compose.quickstart.yml 
